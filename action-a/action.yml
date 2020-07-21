@@ -15,6 +15,3 @@ runs:
 branding:
   icon: "award"
   color: "purple"
-
-- name: Auto reviews
-  uses: golfzaptw/action-auto-reviews-from-branches@1.2.1
